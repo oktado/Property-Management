@@ -57,6 +57,8 @@ Schedule Inspection Screen Flow (Validation Date)
 Schedule Inspection Screen Flow (Success), Showing Detailed Inspection
 <img width="950" height="406" alt="ss_schedule_inspection_screen_flow_success" src="https://github.com/user-attachments/assets/860411ee-cfb6-4c99-af27-583fc55a2015" />
 
+Schedule Inspection Record Created
+<img width="947" height="442" alt="ss_schedule_inspection_screen_flow_success_2" src="https://github.com/user-attachments/assets/24d60a61-148b-41ca-9162-9e4b0c8cb6a6" />
 
 Flow Builder
 <img width="959" height="397" alt="ss_flow_builder" src="https://github.com/user-attachments/assets/7f1cb3b7-e088-4bd9-9df5-7d2526776187" />
