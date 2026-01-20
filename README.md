@@ -1,6 +1,6 @@
 # Salesforce Property Management Project
 
-A comprehensive property management system built on Salesforce to track property inspections, manage inspection schedules through a modern Lightning Web Component dashboard.
+property management app built on Salesforce to track property inspections, manage inspection schedules through a modern Lightning Web Component dashboard.
 
 # Custom Object 
 
